@@ -3,7 +3,7 @@
 <h2>My projects</h2>
 <h2>Reach me here!</h2>
 <a href="www.linkedin.com/in/santiagoalzuguren" target="_blank">
-    <img src="assets/linkedin.png"
+    <img src="linkedin.png"
        width="40"
        alt="Contact me on LinkedIn">
 </a>
