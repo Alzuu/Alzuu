@@ -18,7 +18,7 @@
 </a>
 <h2>About me</h2>
 <h3>Programming Languajes</h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alzuu&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzuu&layout=compact&bg_color=00000000&title_color=8C8C8C&text_color=666666&border_color=404040" />
 <h2>My projects</h2>
 
 </div>
