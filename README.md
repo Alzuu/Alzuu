@@ -1,6 +1,4 @@
 <h1 aling="center">Hi there! I'm Santi Alzu</h1>
-<h2>About me</h2>
-<h2>My projects</h2>
 <h2>Reach me here!</h2>
 <div align="center">
     <a href="mailto:santiagoalzuguren@gmail.com" target="_blank">
@@ -18,6 +16,11 @@
        width="40"
        alt="Contact me on Instagram">
 </a>
+<h2>About me</h2>
+<h3>Programming Languajes</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alzuu&layout=compact)
+<h2>My projects</h2>
+
 </div>
 
 
