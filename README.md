@@ -1,4 +1,9 @@
-<h1 aling="center">Hi there! I'm Santi Alzu</h1>
+<h1 align="center">Hi there! I'm Santi Alzu</h1>
+<pre>
+    📚 Currently pursuing a BSc in Information Systems at <a href="https://www.fi.uncoma.edu.ar/">Universidad Nacional del Comahue (UNCO)<a>
+    👨‍🏫 Working as a Computer Science & robotics teacher
+    🤖 Interested in Robotics and Process Automation 
+</pre>
 <h2>Reach me here!</h2>
 <div align="center">
     <a href="mailto:santiagoalzuguren@gmail.com" target="_blank">
@@ -6,20 +11,33 @@
        width="40"
        alt="Contact me by email">
 </a>
+      &nbsp;
 <a href="https://www.linkedin.com/in/santiagoalzuguren/" target="_blank">
     <img src="linkedIn.png"
        width="40"
        alt="Contact me on LinkedIn">
 </a>
+&nbsp;
 <a href="https://www.instagram.com/santialzuguren/" target="_blank">
     <img src="instagram.png"
        width="40"
        alt="Contact me on Instagram">
 </a>
 </div>
-<h2>About me</h2>
-<h3>Programming Languajes</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzuu&layout=compact&bg_color=00000000&title_color=8C8C8C&text_color=666666&border_color=404040" />
+<h2>Skills</h2>
+        <table align="center">
+            <tr>
+                <td width="50%" valign="top">
+                    <h3>Languages & Tools</h3>
+                    <p>
+                        <img src="https://skillicons.dev/icons?i=java,c,html,css,arduino" alt="Languages and tools" />
+                    </p>
+                </td>
+                <td width="50%" valign="top">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzuu&layout=compact&bg_color=00000000&title_color=8C8C8C&text_color=666666&border_color=404040" />
+                </td>
+        </table>
+
 <h2>My projects</h2>
 
 
