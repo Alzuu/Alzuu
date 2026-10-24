@@ -39,6 +39,24 @@
         </table>
 
 <h2>My projects</h2>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/alzuu/alzuu.github.io">
+          <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=alzuu&repo=alzuu.github.io&bg_color=00000000&title_color=8C8C8C&text_color=666666&border_color=404040"
+    alt="Project repository"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/alzuu/simulacion-Mundo-de-Hormigas.">
+          <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=alzuu&repo=simulacion-Mundo-de-Hormigas.&bg_color=00000000&title_color=8C8C8C&text_color=666666&border_color=404040"
+    alt="Project repository"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
