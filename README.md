@@ -30,11 +30,13 @@
                 <td width="50%" valign="top">
                     <h3>Languages & Tools</h3>
                     <p>
-                        <img src="https://skillicons.dev/icons?i=java,c,html,css,arduino" alt="Languages and tools" />
+                        <img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,arduino" alt="Languages and tools" />
                     </p>
                 </td>
                 <td width="50%" valign="top">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzuu&layout=compact&bg_color=00000000&title_color=8C8C8C&text_color=666666&border_color=404040" />
+                    <a href="https://github.com/stats-organization/github-stats-extended">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alzuu&layout=compact&bg_color=00000000&title_color=8C8C8C&text_color=666666&border_color=404040" alt="Lenguajes más usados" />
+</a>
                 </td>
         </table>
 
