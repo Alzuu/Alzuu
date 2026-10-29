@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Santi Alzu</h1>
 <pre>
-    📚 Currently pursuing a BSc in Information Systems at <a href="https://www.fi.uncoma.edu.ar/">Universidad Nacional del Comahue (UNCO)<a>
+    📚 Currently pursuing a BSc in Information Systems at <a href="https://www.fi.uncoma.edu.ar/">Universidad Nacional del Comahue (UNCO)</a>
     👨‍🏫 Working as a Computer Science & robotics teacher
     🤖 Interested in Robotics and Process Automation 
 </pre>
@@ -34,7 +34,7 @@
                     </p>
                 </td>
                 <td width="50%" valign="top">
-                    <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Alzuu&layout=donut&langs_count=6&theme=calm" alt="Lenguajes más usados" />
+                    <img  src="https://github-stats-extended.vercel.app/api/top-langs?username=Alzuu&layout=donut&langs_count=6&theme=calm" alt="Lenguajes más usados" />
 </a>
                 </td>
         </table>
@@ -43,17 +43,19 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/alzuu/alzuu.github.io">
-          <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=alzuu&repo=alzuu.github.io&bg_color=00000000&title_color=8C8C8C&text_color=666666&border_color=404040"
-    alt="Project repository"/>
-      </a>
+     <!-- Portfolio -->
+<a href="https://github.com/alzuu/Alzuu.github.io">
+    <img
+        src="https://github-stats-extended.vercel.app/api/pin/?username=alzuu&repo=Alzuu.github.io&bg_color=00000000&title_color=8C8C8C&text_color=666666&border_color=404040"
+        alt="Portfolio repository"
+    />
+</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/alzuu/simulacion-Mundo-de-Hormigas.">
           <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=alzuu&repo=simulacion-Mundo-de-Hormigas.&bg_color=00000000&title_color=8C8C8C&text_color=666666&border_color=404040"
-    alt="Project repository"/>
+    alt="Project repository 2"/>
       </a>
     </td>
   </tr>
